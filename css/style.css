@@ -1,0 +1,50 @@
+.center{
+    text-align: center;
+    
+}
+.sayfa{
+    padding: 200px;
+}
+.cont1 input{
+    margin-top: 20px;
+}
+.clear{
+    clear: left;
+}
+.container{
+    width: 80%;
+}
+.cont1{
+    background-color: rgb(200, 209, 216);
+    margin-left: 30%;
+
+}
+.cont21{
+    float: left;
+    background-color: rgb(93, 209, 224);
+    display: block;
+    width: 25%;
+    height: 110px;
+    
+    margin-left: 30%;
+    
+    
+}
+.cont22{
+    float: left;
+    background-color: rgb(81, 205, 214);
+    display: block;
+    width: 15%;
+
+    height: 90px;
+    padding-top: 20px;
+
+}
+.cont23{
+    float: left;
+    display: block;
+    background-color: rgb(62, 153, 153);
+    width: 30%;
+    
+    height: 110px;
+}
